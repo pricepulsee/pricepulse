@@ -20,7 +20,3 @@
 
 Подробнее: [pricepulse.by/collaboration](https://pricepulse.by/collaboration)  
 Заявки: [support@pricepulse.by](mailto:support@pricepulse.by)
-
----
-
-> Сделано в Беларуси 🇧🇾
